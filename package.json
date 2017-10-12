@@ -2,7 +2,7 @@
     "name": "Jquery",
     "version": "1.0.0",
     "scripts": {
-  "start": "node server.js"
+  "start": "index.html"
 },
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "holte",
